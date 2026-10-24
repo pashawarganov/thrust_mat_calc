@@ -1,0 +1,10 @@
+# Python 3.10+ (ноутбук перевірено на 3.12)
+# Версії нижче мінімальні; ноутбук запускався з numpy 2.4, pandas 3.0, scipy 1.17, matplotlib 3.10
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+matplotlib>=3.7
+
+# для запуску ноутбука
+jupyterlab>=4.0
+ipykernel>=6.25
